@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JuanEMacias.JuanEMacias&color=00cf00" alt=""/><h1>
-# En búsqueda y aprendizaje para conectar tecnología y negocios 
+  En búsqueda y aprendizaje para conectar tecnología y negocios 
 
   
 
