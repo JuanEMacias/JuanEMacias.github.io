@@ -1,20 +1,16 @@
-<div id="header" align="center">
+
   <img decoding="async" src="https://github.com/user-attachments/assets/4d211346-d82c-4bf6-86b6-bff5ad5b6b13" width="800"/>
-</div>
-<div id="contact" align="center">
+
   <a href="https://www.linkedin.com/in/juan-esteban-macias-balboa-7567ab223/"><img decoding="async" src="https://github.com/user-attachments/assets/1afa88ee-eb94-40a1-b2e4-c503896e0e17" width="50"> 
   <a href="https://github.com/JuanEMacias"><img decoding="async" src="https://github.com/user-attachments/assets/bd4a6384-caf3-4641-a953-a6c9cf0298ef" width="50"> 
 
-</div>
 <div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JuanEMacias.JuanEMacias&color=00cf00" alt=""/>
-<h1>
- En búsqueda y aprendizaje para conectar tecnología y negocios 
-</h1>
-  
- <div id="header" align="left">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JuanEMacias.JuanEMacias&color=00cf00" alt=""/><h1>
+# En búsqueda y aprendizaje para conectar tecnología y negocios 
 
-# Sobre mí :
+  
+
+## Sobre mí:
 
 Formación académica en gestión y desarrrollo empresarial, interesado en el mundo de Data Analytics y apasionado de la tecnología y los negocios.  
 
@@ -25,23 +21,14 @@ Formación académica en gestión y desarrrollo empresarial, interesado en el mu
 * Me encanta aprender y descubrir nuevas tendencias 
 
 
----
+## Lenguajes y herramientas :
 
-# Lenguajes y herramientas :
+* Python
+* SQL
+* Tableau
+* Excel
 
-<div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-  </a>
-<img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/>
-  </a>
-
-# Proyectos:
+## Proyectos:
 <div id="projects" align="left">
     <a HREF="https://github.com/JuanEMacias/Analisis_tienda_online_videojuegos"> Análisis de datos para tienda online de videojuegos<br>  </a>
     <a HREF="https://github.com/JuanEMacias/Test_A-A-B"> Análisis de test A/A/B para una empresa de venta de productos alimenticios <br> </a>
