@@ -11,7 +11,7 @@
 <h1>
  En búsqueda y aprendizaje para conectar tecnología y negocios 
 </h1>
----
+  
  <div id="header" align="left">
 
 # Sobre mí :
