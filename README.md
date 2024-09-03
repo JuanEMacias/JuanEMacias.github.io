@@ -1,11 +1,11 @@
 
   <img decoding="async" src="https://github.com/user-attachments/assets/4d211346-d82c-4bf6-86b6-bff5ad5b6b13" width="800"/>
 
-# Contacto :mag:
+# Contacto 🔍
 
 - [LinkedIn](https://www.linkedin.com/in/juan-esteban-macias-balboa-7567ab223/)
   
-# Sobre mí :bulb::
+# Sobre mí 💡:
 
 Formación académica en gestión y desarrrollo empresarial, interesado en el mundo de Data Analytics y apasionado de la tecnología y los negocios.  
 
@@ -23,7 +23,7 @@ Formación académica en gestión y desarrrollo empresarial, interesado en el mu
 
 
 # Proyectos 💻
-## Análisis de datos para tienda online de videojuegos :video_game:
+## Análisis de datos para tienda online de videojuegos 🎮:
 [Proyecto](https://github.com/JuanEMacias/Analisis_tienda_online_videojuegos)
 
 En este proyecto se trabaja para la tienda online ICE que vende videojuegos por todo el mundo. 
@@ -38,7 +38,7 @@ Se trabaja en una empresa emergente que vende productos alimenticios
 El objetivo principal es investigar el comportamiento del usuario para la aplicación de la empresa.
 Primero, se estudia el embudo de ventas luego, se observan los resultados de un test A/A/B.
 
-## Análisis para identificar operadores ineficaces en empresa de telecomunicaciones :phone:
+## Análisis para identificar operadores ineficaces en empresa de telecomunicaciones 📞:
 [Proyecto](https://github.com/JuanEMacias/Data_analyst_proyecto_integral)
 
 
