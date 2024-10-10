@@ -1,6 +1,7 @@
 
  
-![Gestión empresarial y análisis de datos](https://github.com/user-attachments/assets/0fabe83d-b3a0-4c40-bb04-350a59b9276d)
+![Gestión empresarial y análisis de datos (GITHUBPAGES)](https://github.com/user-attachments/assets/492f951a-e616-4726-88de-3659c74b4bfc)
+
 
 
 # Contacto 🔍
