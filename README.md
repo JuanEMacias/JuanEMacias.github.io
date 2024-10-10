@@ -26,7 +26,7 @@ Formación académica en gestión y desarrrollo empresarial, interesado en el mu
 
 # Proyectos 💻
 ## Análisis de datos para tienda online de videojuegos 🎮:
-![games-2453777_640](https://github.com/user-attachments/assets/7b105b39-c83c-4eae-b6a3-fa7a79d42dac)
+![games](https://github.com/user-attachments/assets/7b105b39-c83c-4eae-b6a3-fa7a79d42dac)
 
 [Proyecto](https://github.com/JuanEMacias/Analisis_tienda_online_videojuegos)
 
@@ -37,7 +37,7 @@ y los datos históricos sobre las ventas de juegos están disponibles en fuentes
 
 ## Análisis de test A/A/B para una empresa de venta de productos alimenticios 🍎
 
-![tangerines-3105628_640](https://github.com/user-attachments/assets/82cbe09c-9329-4bb0-bfa8-f079734cafdd)
+![tangerines](https://github.com/user-attachments/assets/82cbe09c-9329-4bb0-bfa8-f079734cafdd)
 
 
 [Proyecto](https://github.com/JuanEMacias/Test_A-A-B)
@@ -48,7 +48,7 @@ Primero, se estudia el embudo de ventas luego, se observan los resultados de un 
 
 ## Análisis para identificar operadores ineficaces en empresa de telecomunicaciones 📞:
 
-![white-male-1834136_640](https://github.com/user-attachments/assets/dddd42b3-5813-4fbc-8083-bdbe4c321064)
+![telefono](https://github.com/user-attachments/assets/dddd42b3-5813-4fbc-8083-bdbe4c321064)
 
 
 [Proyecto](https://github.com/JuanEMacias/Data_analyst_proyecto_integral)
