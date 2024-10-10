@@ -1,5 +1,6 @@
 
-  <img decoding="async" src="[https://github.com/user-attachments/assets/4d211346-d82c-4bf6-86b6-bff5ad5b6b13" width="800"](https://github.com/user-attachments/assets/72704a69-d932-47a5-a5b0-47355e6be337)/>
+ 
+![Gestión empresarial y análisis de datos](https://github.com/user-attachments/assets/0fabe83d-b3a0-4c40-bb04-350a59b9276d)
 
 
 # Contacto 🔍
