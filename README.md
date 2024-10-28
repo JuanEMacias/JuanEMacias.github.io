@@ -58,6 +58,15 @@ Primero, se estudia el embudo de ventas luego, se observan los resultados de un 
 En este proyecto se trabaja en un servicio de telefonía virtual, 
 el cual está desarrollando una nueva función que brindará a los supervisores y las supervisoras información sobre los operadores menos eficaces
 
+## Análisis de cuentas por cobrar 💸:
 
+![calculator-385506_640](https://github.com/user-attachments/assets/f32a071b-6e57-40c5-af45-572405a1611f)
+
+
+[Proyecto](https://github.com/JuanEMacias/cuentas_por_cobrar)
+
+
+En este proyecto se trabaja con un conjunto de datos del área de cuentas por cobrar; 
+el objetivo es centrarse en las facturas que los clientes han decidido no pagar, el objetivo es hallar las características y patrones de estas facturas
 
 
