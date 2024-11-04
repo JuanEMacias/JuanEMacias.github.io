@@ -35,6 +35,13 @@ En este proyecto se trabaja para la tienda online ICE que vende videojuegos por 
 Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) 
 y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas.
 
+### Herramientas 
+Librerías de python:
+- Pandas
+- Numpy
+- Matplotlib
+- Scipy
+
 
 ## Análisis de test A/A/B para una empresa de venta de productos alimenticios 🍎
 
@@ -47,6 +54,14 @@ Se trabaja en una empresa emergente que vende productos alimenticios
 El objetivo principal es investigar el comportamiento del usuario para la aplicación de la empresa.
 Primero, se estudia el embudo de ventas luego, se observan los resultados de un test A/A/B.
 
+### Herramientas 
+Librerías de python:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scipy
+
 ## Análisis para identificar operadores ineficaces en empresa de telecomunicaciones 📞:
 
 ![telefono](https://github.com/user-attachments/assets/dddd42b3-5813-4fbc-8083-bdbe4c321064)
@@ -56,7 +71,16 @@ Primero, se estudia el embudo de ventas luego, se observan los resultados de un 
 
 
 En este proyecto se trabaja en un servicio de telefonía virtual, 
-el cual está desarrollando una nueva función que brindará a los supervisores y las supervisoras información sobre los operadores menos eficaces
+el cual está desarrollando una nueva función que brindará a los supervisores y las supervisoras información sobre los operadores menos eficaces.
+
+### Herramientas 
+Librerías de python:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scipy
+- Scikit learn
 
 ## Análisis de cuentas por cobrar 💸:
 
@@ -68,5 +92,13 @@ el cual está desarrollando una nueva función que brindará a los supervisores 
 
 En este proyecto se trabaja con un conjunto de datos del área de cuentas por cobrar; 
 el objetivo es centrarse en las facturas que los clientes han decidido no pagar, el objetivo es hallar las características y patrones de estas facturas
+
+### Herramientas 
+Librerías de python:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit learn
 
 
